@@ -1,0 +1,15 @@
+.nav-link{
+    font-size: 20px;
+    color: #1E1E1E;
+    text-transform: uppercase;
+}
+
+.btn-signup {
+    width: 210px;
+    height: 65px;
+    font-size: 20px;
+    color: #FFF7E4;
+    background-color: #1E1E1E;
+    margin-top: -15px;
+    text-transform: uppercase;
+}
